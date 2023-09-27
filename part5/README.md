@@ -32,7 +32,8 @@ Answers to [openfullstack.com](https://fullstackopen.com) course exercises from 
   5. Replace sections of the new package.json `dependencies` and `devDependencies` for the ald Vite package.json
   6. Reinstall de packages: `npm install`
   7. Run the app: `npm start` (in contrast to Vite's `npm run dev`) and now the `npm test` will run ok without extra configuration.
-     _Note: Is possible to use still .jsx file extensions without problem (it is not necesary to change the extension to .js)_
+
+  _Note: Is possible to use still .jsx file extensions without problem (it is not necesary to change the extension to .js)_
 
 ## d. End to end testing
 
