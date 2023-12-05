@@ -24,6 +24,8 @@ GraphQL, a modern alternative to REST APIs is also covered by this course. As we
 
 ### [Part 6 - State management with Redux](./part6)
 
+### [Part 12 - Containers](./part12-containers)
+
 ## Still enrolled...
 
 <details>
@@ -39,8 +41,6 @@ GraphQL, a modern alternative to REST APIs is also covered by this course. As we
     ### [Part 10 - React Native](./part10)
 
     ### [Part 11 - CI/CD](./part11)
-
-    ### [Part 12 - Containers](./part12)
 
     ### [Part 13 - Using relational databases](./part13)
 
